@@ -1,0 +1,79 @@
+html {
+
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+
+
+}
+
+nav {
+	background-color: #e0e0d1; 
+	padding: 7px; 
+	font-family: Roboto; 
+	font-size: 23px; 
+	color: #bb1133;
+	position: fixed;
+	top: 0;
+	width: 100%;
+
+}
+
+
+
+#body{
+	margin: 0 15px 0 15px;
+	padding-top: 35px;
+	font-family: Roboto, sans-serif; 
+	font-weight: 300;
+
+}
+
+
+#header {
+
+		border-bottom: 1px solid black;
+		padding: 0 0 5px 0;
+		font-family: Source Code Pro; 
+		font-size: 44px;
+		text-shadow: 3px 3px 0 #ccc;
+
+	}
+
+
+/* DO NOT DELETE ABOVE */
+
+
+
+.card {
+
+	display: inline-block;
+	height: 300px;
+	width: 225px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}
+
+.card-text {
+
+ padding: 10px;
+
+}
+
+.card-title {
+
+	font-weight: 900;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+.card-content {
+
+	padding: 10px 0 15px;
+	font-size: 14px
+}
