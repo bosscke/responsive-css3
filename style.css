@@ -56,6 +56,14 @@ nav {
 	width: 225px;
 	border: 1px solid #ccc;
 	background-color: #fff;
+	color: #000;
+	text-decoration: none;
+	transition: 250ms box-shadow ease-in-out;
+}
+
+.card:hover {
+
+	box-shadow: 5px 5px 0 #aaa;
 }
 
 .card-text {
